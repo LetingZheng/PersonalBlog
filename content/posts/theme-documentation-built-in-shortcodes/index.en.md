@@ -1,9 +1,9 @@
 ---
-weight: 3
+weight: 1
 title: "Theme Documentation - Built-in Shortcodes"
 date: 2020-03-04T16:29:41+08:00
 lastmod: 2020-03-04T16:29:41+08:00
-draft: false
+draft: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
 description: "Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean."
@@ -148,7 +148,7 @@ Example `tweet` input:
 
 The rendered output looks like this:
 
-{{< tweet 917359331535966209 >}}
+<!-- {{< tweet user="twitter_username" id="tweet_id" >}} -->
 
 ## 8 vimeo
 

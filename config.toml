@@ -2,7 +2,6 @@
   [module.hugoVersion]
     extended = true
     min = "0.62.0"
-
     # Menu config
 [menu]
   [[menu.main]]
@@ -16,44 +15,83 @@
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
+#  [[menu.main]]
+#    weight = 1
+#    identifier = "tags"
+#    pre = ""
+#    post = ""
+#    name = "Tags"
+#    url = "/tags/"
+#    title = ""
   [[menu.main]]
     weight = 2
-    identifier = "tags"
+    identifier = "education"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Education"
+    url = "/education/"
     title = ""
+#  [[menu.main]]
+#    weight = 2
+#    identifier = "categories"
+#    pre = ""
+#    post = ""
+#    name = "Categories"
+#    url = "/categories/"
+#    title = ""
   [[menu.main]]
     weight = 3
-    identifier = "categories"
+    identifier = "teaching"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-
+    name = "Teaching"
+    url = "/teaching/"
+    title = "My Teaching Experience"
+  [[menu.main]]
+    weight = 4
+    identifier = "conference"
+    pre = ""
+    post = ""
+    name = "Conference Participation"
+    url = "/conference/"
+    title = "Conference Participatione"
+#  [[menu.main]]
+#    weight = 5
+#    identifier = "Publication"
+#    pre = ""
+#    post = ""
+#    name = "Publication"
+#    url = "/publication/"
+#    title = "My publication"
+  [[menu.main]]
+    weight = 5
+    identifier = "Fellowship"
+    pre = ""
+    post = ""
+    name = "Fellowship"
+    url = "/fellowship/"
+    title = "Fellowship & Awards"
 [params]
   # site default theme ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
   # date format
-  dateFormat = "2006-01-02"
+  dateFormat = "01/02/2006"
   # website title for Open Graph and Twitter Cards
-  title = "KeepIt"
+  title = "Leting Zheng Personal Website"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my KeepIt site"
+  description = "Welcome to My Personal Website"
   # website images for Open Graph and Twitter Cards
   images = []
 
   # Header config
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
-    desktopMode = "fixed"
+    desktopMode = "auto"
     # mobile header mode ["fixed", "normal", "auto"]
     mobileMode = "auto"
     # Header title config
@@ -61,7 +99,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "My KeepIt site"
+      name = "About Me"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -71,7 +109,7 @@
 
   # Footer config
   [params.footer]
-    enable = true
+    enable = false
     # Custom content (HTML format is supported)
     custom = ""
     # whether to show Hugo and theme info
@@ -81,7 +119,7 @@
     # whether to show the author
     author = true
     # site creation time
-    since = 2022
+    since = 2024
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -92,7 +130,7 @@
     # special amount of posts in each section page
     paginate = 20
     # date format (month and day)
-    dateFormat = "01-02"
+    dateFormat = "01/02"
     # amount of RSS pages
     rss = 10
 
@@ -108,7 +146,7 @@
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "My KeepIt site"
+    title = "About Me"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -150,90 +188,32 @@
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "test1@example.com"
+      gravatarEmail = "" # images/WechatIMG12635.jpg
+      # avatar = "static/lib/images/WechatIMG12635.jpg"
       # URL of avatar shown in home page
-      avatarURL = ""
+      avatarURL = "images/WechatIMG12635.jpg" # change the size at assets/css/_home.scss img.avatar
       # title shown in home page (HTML format is supported)
-      title = ""
+      title = "Leting Zheng"
       # subtitle shown in home page
-      subtitle = "This is my KeepIt site"
+      subtitle = "Hello, my name is Leting! Welcome to my personal website!"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "Email: letingz@uoregon.edu"
     # Home page posts
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 6
+      paginate = 100
   # Social config in home page
   [params.social]
-    GitHub = "xxx"
-    Linkedin = "xxx"
-    Twitter = "xxx"
-    Instagram = "xxx"
-    Facebook = "xxx"
-    Telegram = "xxx"
-    Medium = "xxx"
-    Gitlab = "xxx"
-    Youtubelegacy = "xxx"
-    Youtubecustom = "xxx"
-    Youtubechannel = "xxx"
-    Tumblr = "xxx"
-    Quora = "xxx"
-    Keybase = "xxx"
-    Pinterest = "xxx"
-    Reddit = "xxx"
-    Codepen = "xxx"
-    FreeCodeCamp = "xxx"
-    Bitbucket = "xxx"
-    Stackoverflow = "xxx"
-    Weibo = "xxx"
-    Odnoklassniki = "xxx"
-    VK = "xxx"
-    Flickr = "xxx"
-    Xing = "xxx"
-    Snapchat = "xxx"
-    Soundcloud = "xxx"
-    Spotify = "xxx"
-    Bandcamp = "xxx"
-    Paypal = "xxx"
-    Fivehundredpx = "xxx"
-    Mix = "xxx"
-    Goodreads = "xxx"
-    Lastfm = "xxx"
-    Foursquare = "xxx"
-    Hackernews = "xxx"
-    Kickstarter = "xxx"
-    Patreon = "xxx"
-    Steam = "xxx"
-    Twitch = "xxx"
-    Strava = "xxx"
-    Skype = "xxx"
-    Whatsapp = "xxx"
-    Zhihu = "xxx"
-    Douban = "xxx"
-    Angellist = "xxx"
-    Slidershare = "xxx"
-    Jsfiddle = "xxx"
-    Deviantart = "xxx"
-    Behance = "xxx"
-    Dribbble = "xxx"
-    Wordpress = "xxx"
-    Vine = "xxx"
-    Googlescholar = "xxx"
-    Researchgate = "xxx"
-    Mastodon = "xxx"
-    Thingiverse = "xxx"
-    Devto = "xxx"
-    Gitea = "xxx"
-    XMPP = "xxx"
-    Matrix = "xxx"
-    Bilibili = "xxx"
-    Email = "xxx"
-    RSS = "xxx"
+    # Goodreads = "xxx"
+    # Googlescholar = "xxx"
+    # Email = "letingzheng@gmail.com"
+    GitHub = "LetingZheng"
+    Linkedin = "leting-zheng-252877213"
 
   # Page global config
   [params.page]
@@ -301,7 +281,7 @@
       fullscreen = true
     # Social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false

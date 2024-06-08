@@ -495,7 +495,7 @@ bilibili:
 
 # 063: Email
 email:
-  Weight: 63
+  Weight: 64
   Template: mailto:%v
   Title: Email
   Icon:

@@ -1,9 +1,9 @@
 ---
-weight: 2
+weight: 1
 title: "Theme Documentation - Content"
-date: 2020-03-05T15:58:26+08:00
-lastmod: 2020-03-05T15:58:26+08:00
-draft: false
+date: 2024-03-05T15:58:26+08:00
+lastmod: 2024-03-05T15:58:26+08:00
+draft: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
 description: "Find out how to create and organize your content quickly and intuitively in KeepIt theme."
