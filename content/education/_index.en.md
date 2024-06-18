@@ -13,7 +13,7 @@ categories: ["Markdown"]
 ## 2020-2025: University of Oregon, Eugene OR, USA 
 **Ph.D.** East Asian Languages and Literatures
 
-- **Research Interest**: modern Chinese literature, transnational children’s studies, media (periodicals, films, and comics), visuality, affect theory, and gender.
+- **Research Interests**: modern Chinese literature, transnational children’s studies, media (periodicals, films, and comics), visuality, affect theory, and gender.
 
 ## 2017-2020: University of Colorado Boulder, Boulder CO, USA
 **M.A.** Asian Languages and Civilizations
