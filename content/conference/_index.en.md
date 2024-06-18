@@ -16,7 +16,7 @@ categories: ["Markdown"]
 - “The Visibility and Visuality of Children in Modern China (1890s-1920s): The Depictions of Cuteness, Play, and Outer Spatiality in Children’s Magazines,” Madison, WI, May 30 - June 1
 
 **7th Asian Studies Research Event at University of Oregon**
-- “Three-Minute Theses” Presentation of “From Bourgeois Fantasy to Maoist Propagandism: Children, Happiness, and Nation-Building in Modern China,” Eugene, OR, May 23
+- “From Bourgeois Fantasy to Maoist Propagandism: Children, Happiness, and Nation-Building in Modern China,” Eugene, OR, May 23
 
 ## 2023
 
