@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - </title>
+        <link>/posts/</link>
+        <description>All Posts | </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>About Me</title>
+    <link>/posts/my-background/</link>
+    <pubDate>Thu, 06 Jun 2024 00:00:00 &#43;0000</pubDate>
+    <author>Leting Zheng</author>
+    <guid>/posts/my-background/</guid>
+    <description><![CDATA[Hi, welcome to my personal website! I am Leting Zheng, a PhD candidate in the Department of East Asian Languages &amp; Literatures at the University of Oregon. My research interests encompass modern Chinese literature, transnational children&rsquo;s studies, media (periodicals, films, and comics), visuality, and gender. My dissertation investigates the shifting cultural constructions of children’s happiness, from bourgeois fantasy in early Republican China to a propagandistic tool in Maoist China. It calls for a transnational turn in children&rsquo;s studies and explores the Western and East Asian influences on this project.]]></description>
+</item>
+</channel>
+</rss>
