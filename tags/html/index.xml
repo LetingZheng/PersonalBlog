@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>HTML - Tag - </title>
-        <link>/tags/html/</link>
+        <link>//localhost:1313/tags/html/</link>
         <description>HTML - Tag - </description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/html/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="//localhost:1313/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Teaching Experience</title>
-    <link>/teaching/</link>
+    <link>//localhost:1313/teaching/</link>
     <pubDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/teaching/</guid>
+    <guid>//localhost:1313/teaching/</guid>
     <description><![CDATA[University of Oregon 2020 - present Graduate Employee, Dept. of East Asian Languages and Literatures
 Language Courses: CHN 101 Beginning Chinese (Fall 2021) CHN 201/204, 202/204, 203/206 Intermediate Chinese (Fall 2020, Winter 2021, Spring 2021, Fall 2022) Graded assignments, quizzes, and exams, and provided personalized and in-time feedback to students. Developed creative strategies based on my knowledge of Cantonese, Mandarin, English, and Japanese to teach Chinese grammar and syntax to students with diverse backgrounds.]]></description>
 </item>
 <item>
     <title>Conference Participation</title>
-    <link>/conference/</link>
+    <link>//localhost:1313/conference/</link>
     <pubDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/conference/</guid>
+    <guid>//localhost:1313/conference/</guid>
     <description><![CDATA[2024 Children’s Literature Association
 “The Visibility and Visuality of Children in Modern China (1890s-1920s): The Depictions of Cuteness, Play, and Outer Spatiality in Children’s Magazines,” Madison, WI, May 30 - June 1 7th Asian Studies Research Event at University of Oregon
 “Three-Minute Theses” Presentation of “From Bourgeois Fantasy to Maoist Propagandism: Children, Happiness, and Nation-Building in Modern China,” Eugene, OR, May 23 2023 East Asian Languages and Literatures Graduate Student Symposium]]></description>
 </item>
 <item>
     <title>Education</title>
-    <link>/education/</link>
+    <link>//localhost:1313/education/</link>
     <pubDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/education/</guid>
+    <guid>//localhost:1313/education/</guid>
     <description><![CDATA[2020-2025: University of Oregon, Eugene OR, USA Ph.D. East Asian Languages and Literatures
 Research Interest: modern Chinese literature, transnational children’s studies, media (periodicals, films, and comics), visuality, affect theory, and gender. 2017-2020: University of Colorado Boulder, Boulder CO, USA M.A. Asian Languages and Civilizations
 2013-2017: Sun Yat-sen University, Guangdong, China B.A. Chinese Language and Literature
@@ -35,18 +35,18 @@ Language Proficiency Cantonese: Native Mandarin: Native Classical Chinese: Profe
 </item>
 <item>
     <title>Fellowship &amp; Awards</title>
-    <link>/fellowship/</link>
+    <link>//localhost:1313/fellowship/</link>
     <pubDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/fellowship/</guid>
+    <guid>//localhost:1313/fellowship/</guid>
     <description><![CDATA[2024 The Top Prize of Asian Studies Research Event and Asian Studies Awards for Graduate Students, University of Oregon College of Arts and Science Diversity Grant, “Harmony in Diversity: Exploring the Shared Heritage of Asia,” Co-PI, University of Oregon Travel Grant, Dept. of East Asian Languages and Literatures, University of Oregon National Humanities Center Graduate Student Summer Residency Program Sponsorship, University of Oregon (postponed) Oregon Humanities Center Dissertation Fellowship for 2024-25, University of Oregon 2023 East Asia Library Travel Grant, Stanford University Travel Grant, Dept.]]></description>
 </item>
 <item>
     <title>My Publication</title>
-    <link>/publication/</link>
+    <link>//localhost:1313/publication/</link>
     <pubDate>Wed, 05 Jun 2024 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/publication/</guid>
+    <guid>//localhost:1313/publication/</guid>
     <description><![CDATA[This article shows my Publication.]]></description>
 </item>
 </channel>
