@@ -421,10 +421,10 @@
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-34QFZ5SDRW"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
@@ -457,3 +457,4 @@
     polyfill = false
     # whether to use object-fit-images to be compatible with older browsers
     objectFit = false
+
