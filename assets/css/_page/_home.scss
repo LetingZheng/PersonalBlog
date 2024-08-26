@@ -5,11 +5,11 @@
     text-align: center;
 
     .home-avatar {
-      padding: .9rem;
+      padding: .1rem;
 
       img {
         display: inline-block;
-        width: 8rem;
+        width: auto;
         height: auto;
         margin: 0 auto;
         @include border-radius(100%);
@@ -71,9 +71,10 @@
     @include transform(translateY(0));
     padding-top: 2rem;
   }
-
+  /*change the size of avatar*/
   .home-avatar img {
-    width: 9rem;
+    height: 100%;
+    width: 12rem;
   }
 
   .summary {
