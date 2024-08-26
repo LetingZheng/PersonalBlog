@@ -189,9 +189,9 @@
       enable = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "" # images/WechatIMG12635.jpg
-      # avatar = "static/lib/images/WechatIMG12635.jpg"
+      # wee need add to 2 folders to change the picture avatar = "static/lib/images/WechatIMG12635.jpg" + 'images/xxxx'
       # URL of avatar shown in home page
-      avatarURL = "images/WechatIMG12635.jpg" # change the size at assets/css/_home.scss img.avatar
+      avatarURL = "images/WechatAvatar2.jpg" # change the size at assets/css/_home.scss img.avatar
       # title shown in home page (HTML format is supported)
       title = "Leting Zheng"
       # subtitle shown in home page
@@ -426,7 +426,7 @@
     [params.analytics.google]
       id = "G-34QFZ5SDRW"
       # whether to anonymize IP
-      anonymizeIP = true
+      anonymizeIP = false
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
