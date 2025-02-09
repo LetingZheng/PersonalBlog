@@ -31,14 +31,14 @@
     name = "Education"
     url = "/education/"
     title = ""
-#  [[menu.main]]
-#    weight = 2
-#    identifier = "categories"
-#    pre = ""
-#    post = ""
-#    name = "Categories"
-#    url = "/categories/"
-#    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "publications"
+    pre = ""
+    post = ""
+    name = "Publications"
+    url = "/Publications/"
+    title = ""
   [[menu.main]]
     weight = 3
     identifier = "teaching"
@@ -47,22 +47,14 @@
     name = "Teaching"
     url = "/teaching/"
     title = "My Teaching Experience"
-  [[menu.main]]
-    weight = 5
-    identifier = "conference"
-    pre = ""
-    post = ""
-    name = "Conference Participation"
-    url = "/conference/"
-    title = "Conference Participatione"
 #  [[menu.main]]
 #    weight = 5
 #    identifier = "Publication"
 #    pre = ""
 #    post = ""
 #    name = "Publication"
-#    url = "/publication/"
-#    title = "My publication"
+#    url = "/publications/"
+#    title = "My publications"
   [[menu.main]]
     weight = 4
     identifier = "Fellowship"
@@ -71,6 +63,14 @@
     name = "Fellowship & Awards"
     url = "/fellowship/"
     title = "Fellowship & Awards"
+  [[menu.main]]
+  weight = 5
+  identifier = "conference"
+  pre = ""
+  post = ""
+  name = "Conference Participation"
+  url = "/conference/"
+  title = "Conference Participatione"
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "light"
@@ -195,7 +195,7 @@
       # title shown in home page (HTML format is supported)
       title = "Leting Zheng"
       # subtitle shown in home page
-      subtitle = "Hello, my name is Leting! Welcome to my personal website!"
+      subtitle = "Welcome to my personal website!"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links

@@ -22,6 +22,10 @@ categories: ["Markdown"]
 
 # Paper Presented
 
+**2025**
+
+- 2025 American Comparative Literature Association, “Little Red Guards in the Cultural Revolution (1966-1976): Violence, Happiness, and Hatred in Propagandistic Children’s Periodicals,” virtual, May 29-June 6
+
 **2024**
 
 - Northwest China Forum, “Hatred, Pleasure, and (In)visible Violence: The Innocent Weapons in Little Red Guards,” Vancouver, Canada, October 18-20

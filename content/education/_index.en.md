@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Education"
-date: 2024-06-05
-lastmod: 2024-06-05
+date: 2025-02-09
+lastmod: 2025-02-09
 layout: "single"
 draft: false
 description: "This article shows my education background."
@@ -13,7 +13,7 @@ categories: ["Markdown"]
 ## 2020-2025: University of Oregon, Eugene OR, USA 
 **Ph.D.** East Asian Languages and Literatures
 
-- **Research Interests**: modern Chinese literature, transnational children’s studies, media (periodicals, films, and comics), visuality, affect theory, and gender studies
+- **Research Interests**: modern Chinese literature, transnational children’s studies, media (periodicals, films, and comics), visuality, colonial studies, and gender studies
 
 ## 2017-2020: University of Colorado Boulder, Boulder CO, USA
 **M.A.** Asian Languages and Civilizations

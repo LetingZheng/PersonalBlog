@@ -1,8 +1,8 @@
 ---
 weight: 3
 title: "Teaching Experience"
-date: 2024-06-05
-lastmod: 2024-06-05
+date: 2025-02-09
+lastmod: 2025-02-09
 layout: "single"
 draft: false
 description: "This article shows my teaching experience."
@@ -20,6 +20,7 @@ categories: ["Markdown"]
 - **CHN 201/204, 202/204, 203/206 Intermediate Chinese** (Fall 2020, Winter 2021, Spring 2021, Fall 2022)
   - Graded assignments, quizzes, and exams, and provided personalized and in-time feedback to students.
   - Developed creative strategies based on my knowledge of Cantonese, Mandarin, English, and Japanese to teach Chinese grammar and syntax to students with diverse backgrounds.
+- **CHN 302 Third Year Chinese** (Winter 2024)
 
 ### Content Courses:
 - **CHN 150 “Introduction to Chinese Narrative”** (Spring 2024)
@@ -36,7 +37,7 @@ categories: ["Markdown"]
 
 ### 2020 - 2021
 **Chinese Flagship Program tutor, Dept. of East Asian Languages and Literatures**
-- Provided advanced Chinese tutorials for students; helped students prepare for Hanyu Shuiping Kaoshi and studying abroad in Taiwan.
+- Provided advanced Chinese tutorials for students; helped students prepare for Hanyu Shuiping Kaoshi and study abroad in Taiwan.
 
 # University of Colorado Boulder
 
