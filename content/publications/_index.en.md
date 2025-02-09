@@ -12,4 +12,4 @@ categories: ["Markdown"]
 
 ## Peer-reviewed articles
 
-- (Accepted with Revisions) “The Visibility and Visuality of Children in Modern China: Cuteness, Play, and Outer Spatiality in Children’s Magazines,” Children’s Literature Association Quarterly
+- (Accepted with Revisions) “The Visibility and Visuality of Children in Modern China: Cuteness, Play, and Outer Spatiality in Children’s Magazines,” *Children’s Literature Association Quarterly*
